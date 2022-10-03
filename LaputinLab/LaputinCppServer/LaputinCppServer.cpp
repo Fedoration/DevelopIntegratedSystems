@@ -15,9 +15,9 @@ void init()
 {
     Server server;
 }
-
+ 
 // Единственный объект приложения
-
+//
 CWinApp theApp;
 
 using namespace std;

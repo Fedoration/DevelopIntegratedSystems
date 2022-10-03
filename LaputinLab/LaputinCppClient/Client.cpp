@@ -18,7 +18,7 @@ void Client::ProcessMessages()
 			if (m.data.size() == 0)
 				cout << "So sad, there's no one here\n";
 			else
-				cout << "Actual users :\n" << m.data << endl;
+				cout << "Actual users:\n" << m.data << endl;
 			break;
 		default:
 			Sleep(2000);

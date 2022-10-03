@@ -1,0 +1,13 @@
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\x64\Debug\LaputinSharpClient.exe
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\x64\Debug\LaputinSharpClient.deps.json
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\x64\Debug\LaputinSharpClient.runtimeconfig.json
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\x64\Debug\LaputinSharpClient.dll
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\x64\Debug\LaputinSharpClient.pdb
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\LaputinSharpClient\obj\Debug\LaputinSharpClient.csproj.AssemblyReference.cache
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\LaputinSharpClient\obj\Debug\LaputinSharpClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\LaputinSharpClient\obj\Debug\LaputinSharpClient.AssemblyInfoInputs.cache
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\LaputinSharpClient\obj\Debug\LaputinSharpClient.AssemblyInfo.cs
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\LaputinSharpClient\obj\Debug\LaputinSharpClient.csproj.CoreCompileInputs.cache
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\LaputinSharpClient\obj\Debug\LaputinSharpClient.dll
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\LaputinSharpClient\obj\Debug\LaputinSharpClient.pdb
+C:\Users\ivana\study\integrated_systems\LaputinLabWork\LaputinLab\LaputinSharpClient\obj\Debug\LaputinSharpClient.genruntimeconfig.cache
